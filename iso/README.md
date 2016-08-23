@@ -20,3 +20,7 @@ For example, you might want to start with one of the following:
 	* File Name: en_windows_server_2012_vl_x64_dvd_917758.iso
 	* SHA1 Hash: 063BC26ED45C50D3745CCAD52DD7B3F3CE13F36D
 	* Direct Download: http://msdn.microsoft.com/subscriptions/json/GetDownloadRequest?brand=MSDN&locale=en-us&fileId=50573&activexDisabled=true&akamaiDL=false
+* Windows Server 2016 Technical Preview 5 (Official Test license)
+	* File Name: en_windows_server_2016_technical_preview_5_x64_dvd_8512312.iso
+	* SHA1 Hash: 5D2A2795DCA417ED66DFC6B18D733CE2BD09EC63
+	* Direct Download: http://msdn.microsoft.com/subscriptions/json/GetDownloadRequest?brand=MSDN&locale=sv-se&fileId=67994&activexDisabled=true&akamaiDL=false
