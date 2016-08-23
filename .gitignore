@@ -8,5 +8,7 @@
 /output-virtualbox-iso/
 /output-virtualbox-ovf/
 /*.box
+/*.qcow2
+/*.vmdk
 /packer_cache/
 
